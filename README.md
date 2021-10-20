@@ -1,5 +1,7 @@
 A landing page.
 
+Live: https://rishizvr.github.io/project-landing-page/
+
 Project Details:
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
 
